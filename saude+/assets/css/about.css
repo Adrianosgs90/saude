@@ -4,10 +4,10 @@ body {
     margin: 0;
     padding: 0;
     background-image: url("../images/bg-signin.jpg");
-    /* Usando a imagem bg-signin como background */
     background-repeat: no-repeat;
     background-size: cover;
-    color: #333;
+    background-attachment: fixed;
+    color: #333; 
 }
 
 header {
